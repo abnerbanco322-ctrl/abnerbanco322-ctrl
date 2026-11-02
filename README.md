@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**abnerbanco322-ctrl/abnerbanco322-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou Abner Alves de Araújo
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software na Anhanguera.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente desenvolvo projetos para aprimorar minhas habilidades em programação, desenvolvimento web e banco de dados.
+
+🚀 Tenho interesse em Desenvolvimento Full Stack e Inteligência Artificial.
+
+## 🛠️ Tecnologias que estou aprendendo
+
+- 🐍 Python
+- 🌐 HTML, CSS e JavaScript
+- ⚙️ Flask
+- 🗄️ SQLite e SQL
+- 🔧 Git e GitHub
+
+## 🚀 Projeto em desenvolvimento
+
+### CommerceX
+
+Sistema web de gerenciamento comercial, desenvolvido com Python, Flask, SQLite, HTML, CSS e JavaScript.
+
+O projeto envolve cadastro e gerenciamento de produtos, controle de estoque e desenvolvimento de funcionalidades para registro de vendas.
+
+## 📚 Atualmente estudando
+
+- Engenharia de Software
+- Programação com Python
+- Desenvolvimento de aplicações web
+- Fundamentos de Inteligência Artificial
+
+## 🎯 Meu objetivo
+
+Conquistar minha primeira oportunidade profissional na área de tecnologia, desenvolver minhas habilidades e contribuir com projetos reais.
+  
